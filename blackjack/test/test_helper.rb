@@ -1,0 +1,7 @@
+require 'minitest/autorun'
+require 'minitest/pride'
+require 'pry'
+require './lib/game'
+require './lib/player'
+require './lib/deck'
+require './lib/card'
